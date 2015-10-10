@@ -1,0 +1,9 @@
+c:\users\khamraj\documents\visual studio 2015\Projects\UI Test\UI Test\bin\Debug\UI Test.exe.config
+c:\users\khamraj\documents\visual studio 2015\Projects\UI Test\UI Test\bin\Debug\UI Test.exe
+c:\users\khamraj\documents\visual studio 2015\Projects\UI Test\UI Test\bin\Debug\UI Test.pdb
+c:\users\khamraj\documents\visual studio 2015\Projects\UI Test\UI Test\obj\Debug\UI Test.csprojResolveAssemblyReference.cache
+c:\users\khamraj\documents\visual studio 2015\Projects\UI Test\UI Test\obj\Debug\UI_Test.Properties.Resources.resources
+c:\users\khamraj\documents\visual studio 2015\Projects\UI Test\UI Test\obj\Debug\UI Test.csproj.GenerateResource.Cache
+c:\users\khamraj\documents\visual studio 2015\Projects\UI Test\UI Test\obj\Debug\UI Test.exe
+c:\users\khamraj\documents\visual studio 2015\Projects\UI Test\UI Test\obj\Debug\UI Test.pdb
+c:\users\khamraj\documents\visual studio 2015\Projects\UI Test\UI Test\obj\Debug\UI_Test.MainWindow.resources
